@@ -1,0 +1,7 @@
+Omar Elalfy, 2252602
+Oday Jawaada, 2246956
+
+- Both of us have worked on both projects.
+
+-Main Class in Server: Server.java
+-Main Class in Client: Main.java 
